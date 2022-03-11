@@ -57,12 +57,12 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="TGw-zi-GT3" secondAttribute="bottom" id="g4e-DM-nah"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Tasks" largeTitleDisplayMode="always" id="7eR-k7-rPD">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="1IH-aP-8D0">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="bez-0U-GBL">
-                                <rect key="frame" x="-33" y="-15" width="92" height="31"/>
+                    <navigationItem key="navigationItem" title="Tasks" id="7eR-k7-rPD">
+                        <barButtonItem key="rightBarButtonItem" style="done" id="vUf-jZ-fGN">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="2ji-pw-Zfc">
+                                <rect key="frame" x="302" y="5" width="92" height="34.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" title="+"/>
                             </button>

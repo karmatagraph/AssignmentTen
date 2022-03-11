@@ -11,6 +11,8 @@ class TodoTableViewCell: UITableViewCell {
 
     @IBOutlet weak var nameLbl: UILabel!
    
-    
+    func setData(item: [TaskItem]){
+        
+    }
 
 }
